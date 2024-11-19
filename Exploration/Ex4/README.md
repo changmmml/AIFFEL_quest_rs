@@ -8,16 +8,16 @@
 - [O]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-          1.인물완료 
+          1.인물완료   
           <img width="394" alt="image" src="https://github.com/user-attachments/assets/3b89a6cd-a66c-4bf6-90c7-aa456a56b2fe">
-          2.동물완료
+          2.동물완료  
           <img width="399" alt="image" src="https://github.com/user-attachments/assets/ed4c9167-70db-4071-a07a-f01dc981f353">
-          3.크로마키 완료
+          3.크로마키 완료  
           <img width="372" alt="image" src="https://github.com/user-attachments/assets/76485647-b9ed-4b54-af8f-13d7f7272d10">
-          4.문제점 찾기 완료
+          4.문제점 찾기 완료  
           <img width="588" alt="image" src="https://github.com/user-attachments/assets/90d78bac-1d2c-489b-b160-a593d2dd1ed3">
           <img width="555" alt="image" src="https://github.com/user-attachments/assets/361cc00f-e259-4e19-be90-24046c8b8b76">
-          5.해결방법 제안 완료
+          5.해결방법 제안 완료  
           <img width="634" alt="image" src="https://github.com/user-attachments/assets/130a04c2-44b7-430d-9554-3aecd1b89f9d">
 
 
